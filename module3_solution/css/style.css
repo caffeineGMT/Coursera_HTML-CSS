@@ -26,8 +26,11 @@
 
 /* main content */
 
+h3 {
+    text-transform: capitalize;
+}
+
 h4 {
-    text-align: center;
     text-transform: capitalize;
 }
 
